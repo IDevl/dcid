@@ -1,6 +1,3 @@
-
-
-
 div.mainDiv {
   position: absolute;
   display: inline-block;
@@ -426,7 +423,7 @@ a.contactinfo3:hover {
 
   h1.infohead {
     margin-top: 20px;
-    margin-left: 40%;
+    margin-left: 35%;
   }
 
   p.contactinfo1{
